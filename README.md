@@ -180,15 +180,15 @@ $site_name = 'Your Portfolio';
 <div align="center">
 🌅 حالت روشن
 Light Mode
-![Banner Light Mode](images/Light_Mode.png)
+![Banner Light Mode](assets/images/Light_Mode.png)
 
 🌙 حالت تاریک
 Dark Mode
-![Banner Dark Mode](images/Dark_Mode.png)
+![Banner Dark Mode](assets/images/Dark_Mode.png)
 
 📱 نمای موبایل
 Mobile View
-![Banner Mobile View](images/Mobile_View.png)
+![Banner Mobile View](assets/images/Mobile_View.png)
 
 </div>
 
