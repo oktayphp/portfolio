@@ -178,17 +178,12 @@ $site_name = 'Your Portfolio';
 
 📸 اسکرین‌شات‌ها
 <div align="center">
-🌅 حالت روشن
+  
 Light Mode
-  ![Banner Light Mode](assets/images/Light_Mode.png)
-
-🌙 حالت تاریک
+![Banner Light Mode](assets/images/Light_Mode.png)
 Dark Mode
 ![Banner Dark Mode](assets/images/Dark_Mode.png)
-
-📱 نمای موبایل
 Mobile View
-
 ![Banner Mobile View](assets/images/Mobile_View.png)
 
 </div>
