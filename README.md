@@ -184,7 +184,7 @@ Light Mode
 Dark Mode
 ![Banner Dark Mode](assets/images/Dark_Mode.png)
 Mobile View
-![Banner Mobile View](assets/images/Mobile_View.png)
+![Banner Mobile View](assets/images/Mobile_View.jpg)
 
 
 </div>
