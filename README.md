@@ -93,7 +93,7 @@
 ### مراحل نصب
 
 1️⃣ **کلون کردن مخزن:**
-```bash
+
 git clone https://github.com/oktayphp/portfolio.git
 cd portfolio
 2️⃣ تنظیم فایل contact.php:
