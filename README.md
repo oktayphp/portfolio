@@ -97,13 +97,17 @@
 ```bash
 git clone https://github.com/oktayphp/portfolio.git
 ```
+```bash
 cd portfolio
+```
 2️⃣ تنظیم فایل contact.php:
 
 PHP
 
 // در خط 14 فایل contact.php ایمیل خود را وارد کنید:
+```bash
 $recipient_email = 'your-email@example.com';
+```
 3️⃣ راه‌اندازی سرور محلی:
 
 با PHP Built-in Server:
@@ -146,23 +150,27 @@ portfolio/
 در فایل assets/css/style.css:
 
 CSS
-
+```bash
 :root {
   --primary: #0066cc;     /* رنگ اصلی */
   --secondary: #00d4ff;   /* رنگ ثانویه */
   --dark: #0f1724;        /* پس‌زمینه تیره */
   /* ... */
 }
+```
 📧 تنظیم فرم تماس
 در فایل contact.php:
 
 PHP
 
 // ایمیل دریافت‌کننده
+```bash
 $recipient_email = 'your-email@example.com';
-
+```
 // نام سایت
+```bash
 $site_name = 'Your Portfolio';
+```
 🖼️ تغییر تصاویر
 تصاویر خود را در assets/images/ قرار دهید و در index.html به آن‌ها رجوع کنید.
 
