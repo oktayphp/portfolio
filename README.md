@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Portfolio Banner](assets/images/banner.png)
+![Portfolio Banner](assets/image/banner.png)
 
 **وب‌سایت شخصی اکتای آل احمدی — برنامه‌نویس Full-Stack**
 
