@@ -59,4 +59,3 @@ if (mail($to, $subject_line, $body, $headers)) {
     ]);
 }
 ?>
-**موفق باشی! 🚀**
